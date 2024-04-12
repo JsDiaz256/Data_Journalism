@@ -1,0 +1,170 @@
+Borough,name,park_id,permit_number,type_name
+Brooklyn,Bensonhurst Park Mobile Food Truck,B007,B7-MT,Mobile Food Truck
+Brooklyn,Maria Hernandez Park Food Cart,B016,B16-C,Food Cart
+Brooklyn,Marine Park Mobile Truck,B057,B57-1MT,Mobile Food Truck
+Brooklyn,McCarren Parkhouse Cafe,B058,B58-SB,Snack Bar
+Brooklyn,Prospect Park Mount Food Cart,B073,B159-C,Food Cart
+Brooklyn,Prospect Park Snack Bar,B073,B73-SB,Snack Bar
+Brooklyn,Sunset Park Food Cart,B087,B87-C,Food Cart
+Brooklyn,Seth Low Park Mobile Food Truck,B100,B100-MT,Mobile Food Truck
+Brooklyn,Columbus Park Snack Bar,B113C,B113-C-SB,Snack Bar
+Brooklyn,Red Hook Recreation Center Mobile Food Truck,B126,B126-3MT,Mobile Food Truck
+Brooklyn,Plumb Beach Mobile Food Truck,B164,B57-B-MT,Mobile Food Truck
+Brooklyn,Belmont Playground Mobile Food Trucks,B283,X108-MT,Mobile Food Truck
+Brooklyn,Public Place Food Cart,B290,B290-C,Food Cart
+Brooklyn,Jackie Robinson Park Mobile Food Truck,B294,M14-MT,Mobile Food Truck
+Manhattan,Battery Gardens Restaurant,M005,M5-F-R,Restaurant
+Manhattan,Peter Minuit Snack Bar,M005,M5-PM-SB,Snack Bar
+Manhattan,Battery Park Snack Bar,M005,M5-SB,Snack Bar
+Manhattan,Battery Park Specialty Food Cart,M005,M5-CG,Specialty Cart
+Manhattan,Bowling Green Park Specialty Cart,M007,M7-CG,Specialty Cart
+Manhattan,Central Park Food Cart,M010,M10-72-1A-C,Food Cart
+Manhattan,Central Park Food Cart,M010,M10-72-ED-C,Food Cart
+Manhattan,Central Park Food Cart,M010,M10-74-WD-C,Food Cart
+Manhattan,Central Park Food Cart,M010,M10-W65-C,Food Cart
+Manhattan,Central Park Food Cart,M010,M10-W67-C,Food Cart
+Manhattan,Nuts Above Nuts,M010,M10-W60-HP-C,Food Cart
+Manhattan,"NANDITA, INC.",M010,M10-72-1B-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-E65-C,Food Cart
+Manhattan,"Nandita In,=c.",M010,M10-E66-CD-C,Food Cart
+Manhattan,MUHAMMAD T. ISLAM,M010,M10-E82-GL-C,Food Cart
+Manhattan,"JANANI FOOD SERVICES, INC.",M010,M10-W61-HP-C,Food Cart
+Manhattan,Mohammad Matin,M010,M10-W63-HP-C,Food Cart
+Manhattan,"Sharmin, Inc.",M010,M10-W109-C,Food Cart
+Manhattan,Central Park Food Cart,M010,M10-61-ED-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-62-WD-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-72-1C-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-72-3-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-72-CW-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-59-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-73-BB-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-84-ED-C,Food Cart
+Manhattan,Big City Snacks,M010,M10-E62-C,Food Cart
+Manhattan,Nandita Inc,M010,M10-79-ED-C,Food Cart
+Manhattan,Nandita Inc.,M010,M10-W85-GL-C,Food Cart
+Manhattan,Nuts Above Nuts,M010,M10-E66-SM-C,Food Cart
+Manhattan,Waves Nuts,M010,M10-86-WD-C,Food Cart
+Manhattan,Loeb Boathouse Restaurant,M010,"M10-(14)-BR,SB,R",Restaurant
+Manhattan,Tavern on the Green,M010,M10(34)-R,Restaurant
+Manhattan,Conservatory Water Snack Bar,M010,M10(15)-SB,Snack Bar
+Manhattan,Mineral Springs Cafe,M010,M10-33-SB,Snack Bar
+Manhattan,Arsenal Snack Bar,M010,M10-SB,Snack Bar
+Manhattan,Delacorte Theatre Snack Bar,M010,M10-DT-SB,Snack Bar
+Manhattan,CAF&Eacute; PRODUCTS CORP.,M010,M10-W59-CG,Specialty Cart
+Manhattan,Nandita Inc.,M010,M10-W81-GL-CG,Specialty Cart
+Manhattan,Nandita Inc.,M010,M10-E72-CG,Specialty Cart
+Manhattan,Nandita Inc.,M010,M10-E72-CG,Specialty Cart
+Manhattan,Nandita Inc,M010,M10-62-CD-CG,Specialty Cart
+Manhattan,Jackie Robinson Park Mobile Food Truck,M014,M14-MT,Mobile Food Truck
+Manhattan,Fort Tryon Park Mobile Food Truck,M029,M29-2-C,Mobile Food Truck
+Manhattan,The Hudson,M029,M28-R,Restaurant
+Manhattan,Rice the Great Specialty Food Cart,M030,M30-1-CG,Specialty Cart
+Manhattan,Alexander Hamilton Plygrd Mobile Food Truck,M041,M41-W140-MT,Mobile Food Truck
+Manhattan,Inwood Hill Food Cart,M042,M42-10-C,Food Cart
+Manhattan,Inwood Hill Food Cart,M042,M42-4-C,Food Cart
+Manhattan,John Jay Park Food Cart,M045,M45-C,Food Cart
+Manhattan,Cafe Products Corp,M051,M51-CG,Specialty Cart
+Manhattan,Shake Shack,M052,M52-SB,Snack Bar
+Manhattan,King David Taco,M052,M52-CG,Specialty Cart
+Manhattan,T. Roosevelt Park Specialty Food Cart,M053,M53-CG,Specialty Cart
+Manhattan,Riverside Park Food Cart,M071,M71-W109-C,Food Cart
+Manhattan,Riverside Park Food Cart,M071,M72-W148-1-C,Food Cart
+Manhattan,Ellington In The Park,M071,M71(105)-R,Snack Bar
+Manhattan,Riverside Park Specialty Food Cart,M071,M71-83-CG,Specialty Cart
+Manhattan,Rvierside Park Specialty Food Cart,M071,M71-W101-CG,Specialty Cart
+Manhattan,Tompkinsville Square Food Cart,M088,R24-C,Food Cart
+Manhattan,Freehold in the Park,M089,M89-SB-R,Restaurant
+Manhattan,Verdi Square Snack Bar,M097,M94-SB,Snack Bar
+Manhattan,Washington Square Park Food Cart,M098,M98-F-C,Food Cart
+Manhattan,NY Dosas,M098,M98-EC-CG,Specialty Cart
+Manhattan,First Park Outdoor Cafe,M124,M124-SB,Snack Bar
+Manhattan,Anibal Aviles Playground Mobile Food Truck,M200,M200-200A/200/229-MT,Mobile Food Truck
+Manhattan,Wald Playground Food Cart,M201,M201-C,Food Cart
+Manhattan,PS 199 Playground Mobile Food Truck,M233,M233-MT,Mobile Food Truck
+Manhattan,Pier I Cafe,M353,M353-SB,Snack Bar
+Manhattan,Imagination Playground Specialty Food Cart,M386,M386-CG,Specialty Cart
+Queens,Clearview Cafe,Q010,Q10-A-R,Restaurant
+Queens,Windmuller Park Food Cart,Q031,Q31-C,Food Cart
+Queens,Hart Playground Mobile Food Truck,Q067A,Q419-MT,Mobile Food Truck
+Queens,Memorial Field Mobile Food Truck,Q086,Q86-MT,Mobile Food Truck
+Queens,Frank O'Connor Park Food Cart,Q098,Q98-C,Food Cart
+Queens,Flushing Meadows Corona Park Food Cart,Q099,Q99-(1)-C,Food Cart
+Queens,Flushing Meadows Corona Park Food Cart,Q099,Q99-2-C,Food Cart
+Queens,Flushing Meadows Corona Park Food Cart,Q099,Q99-VB5C,Food Cart
+Queens,Flushing Meadows Corona Park Food Cart,Q099,Q99-VBDC,Food Cart
+Queens,Flushing Meadows Corona Park Food Cart,Q099,Q99-VBEC,Food Cart
+Queens,Flushing Meadows Corona Park Food Cart,Q099,Q99-VBFC,Food Cart
+Queens,Pushcart,Q099,Q99-6-AC,Food Cart
+Queens,Flushing Meadows Corona Park Mobile Food Truck,Q099,Q99-1-MT,Mobile Food Truck
+Queens,Flushing Meadows Corona Park Mobile Food Truck,Q099,Q99-HS-MT,Mobile Food Truck
+Queens,Flushing Meadows Corona Park Mobile Food Truck,Q099,Q99-ZMT,Mobile Food Truck
+Queens,Flushing Meadows Mobile Food Truck,Q099,Q99-MT,Mobile Food Truck
+Queens,Terrace on the Park,Q099,Q99-C-R,Restaurant
+Queens,World's Fair Marina Restaurant,Q099,Q99G-R,Restaurant
+Queens,Ederle Terrace Snack Bar,Q099,Q99(2)-SB,Snack Bar
+Queens,Olmsted Cafeteria,Q099,Q99-J-SB,Snack Bar
+Queens,Junction Playground Food Cart,Q122,Q122-C,Food Cart
+Queens,Cross Island Mobile Food Truck,Q135,Q135-MT,Mobile Food Truck
+Queens,Dredsurfer LLC,Q162,Q162-2-SB,Snack Bar
+Queens,Rockaway Beach Snack Bars,Q163,Q163-SB,Snack Bar
+Queens,Charles Drew Memorial Park Mobile Ice Cream Truck,Q220C,Q220-MT,Mobile Food Truck
+Queens,Kissena Corridor Park Mobile Food Truck,Q300,Q300-MT,Mobile Food Truck
+Queens,Travers Park Food Cart,Q303,Q303-C,Food Cart
+Queens,Thomas J. Travers Playground Mobile Food Truck,Q303,Q303-MT,Mobile Food Truck
+Queens,PS 173 Playground Mobile Food Truck,Q314,Q314-MT,Mobile Food Truck
+Queens,Vleigh Place Playground Mobile Food Truck,Q336,Q336-MT,Mobile Food Truck
+Queens,Frederick Cabbell Park Mobile Food Truck,Q339,Q339-MT,Mobile Food Truck
+Queens,"PAPAZIAN  Q3400006, AKOP",Q340,Q340-MT,Mobile Food Truck
+Queens,Gunn Park Mobile Food Truck,Q358,Q358-MT,Mobile Food Truck
+Queens,PS 149 Playground Food Cart,Q363,Q363-C,Food Cart
+Queens,Louis C. Moser Park Mobile Food Truck,Q366,Q366-MT,Mobile Food Truck
+Queens,PS 127 Elmhurst Playground Mobile Food Truck,Q373,Q373-MT,Mobile Food Truck
+Queens,Hunter's Point South Snack Bar,Q471,Q471-SB,Snack Bar
+Staten Island,Clove Lakes Park Food Cart,R005,R5-3-C,Food Cart
+Staten Island,Clove Lakes Park Mobile Food Truck,R005,R5-MT,Mobile Food Truck
+Staten Island,The Stone House,R005,"R5-SB,BR,R",Restaurant
+Staten Island,Conference House Park Mobile Food Trucks,R006,R6-MT,Mobile Food Truck
+Staten Island,Arthur Kill Road Restaurant,R013,R13-R,Restaurant
+Staten Island,Owl Hollow Park Mobile Food Truck,R017,R17-MT,Mobile Food Truck
+Staten Island,Midland Beach Mobile Food Truck,R046,R46-2-MT,Mobile Food Truck
+Staten Island,Midland Beach Mobile Food Truck,R046,R46-3-MT,Mobile Food Truck
+Staten Island,Midland Beach Mobile Food Truck,R046,R46-MT,Mobile Food Truck
+Staten Island,The Vanderbilt at South Beach,R046,R46-R,Restaurant
+Staten Island,PS 52 Mason Playground Mobile Food Truck,R087,R87-MT,Mobile Food Truck
+Staten Island,South Shore Country Club,R104,R104-R,Restaurant
+Staten Island,Bloomingdale Park Mobile Food Truck,R106,R106-MT,Mobile Food Truck
+Staten Island,Bloomingdale Park Mobile Food Truck,R106,R106-2-MT,Mobile Food Truck
+Staten Island,Ocean Breeze Snack Bar,R149,R149-SB,Snack Bar
+Bronx,River Park Food Cart,X002,X288-C,Food Cart
+Bronx,Bronx Park Mobile Food Truck,X002,X2-MT,Mobile Food Truck
+Bronx,Tweety's Mobile Food Truck,X008,X8-3MT,Food Cart
+Bronx,Claremont Park Mobile Food Truck,X008,X8-(2)MT,Mobile Food Truck
+Bronx,Crotona Park Mobile Food Truck,X010,X10-(5)MT,Mobile Food Truck
+Bronx,Crotona Park Mobile Food Truck,X010,X10-(8)MT,Mobile Food Truck
+Bronx,Crotona Park Mobile Food Truck,X010,X10-(P)MT,Mobile Food Truck
+Bronx,Tremont Park Mobile Food Truck,X010A,X10-A-MT,Mobile Food Truck
+Bronx,Devoe Park Mobile Food Truck,X013,X13-MT,Mobile Food Truck
+Bronx,J Rodman Drake Park Food Cart,X015,X15-C,Food Cart
+Bronx,Hugh Grant Circle Food Cart,X025,X25-C,Food Cart
+Bronx,Pelham Bay Park Food Cart,X039,X39-1-C,Food Cart
+Bronx,Pelham Bay Park Mobile Food Truck,X039,X39(1)-MT,Mobile Food Truck
+Bronx,Pelham Bay Park Mobile Food Truck,X039,X39-3-MT,Mobile Food Truck
+Bronx,Orchard Beach Snack Bar,X039,X39-C-BW-SB,Snack Bar
+Bronx,Wendy's,X058,X58-R,Snack Bar
+Bronx,Slattery Playground Mobile Truck,X085,X85-MT,Mobile Food Truck
+Bronx,Van Cortlandt Park Food Cart,X092,X92-(11)-C,Food Cart
+Bronx,Woodlawn Memorial Mobile Food Truck,X092,X96-MT,Mobile Food Truck
+Bronx,Dunkin' Donuts,X101,X101-O-R,Snack Bar
+Bronx,Ciccarone Park Mobile Food Truck,X102,X102-MT,Mobile Food Truck
+Bronx,People's Park Mobile Food Truck,X103,X103-155-200-217-MT,Mobile Food Truck
+Bronx,Williamsbridge Oval Playground Food Cart,X104,X104-C,Food Cart
+Bronx,Williamsbridge Oval Park,X104,X104-2-C,Food Cart
+Bronx,Sound View Park Mobile Food Truck,X118,X118-2MT,Mobile Food Truck
+Bronx,Sound View Park Mobile Food Truck,X118,X118-(4)MT,Mobile Food Truck
+Bronx,Soundview Park Mobile Food Trucks,X118,X118-4-MT,Mobile Food Truck
+Bronx,Florence Colucci Playground Mobile Food Truck,X122,X122-MT,Mobile Food Truck
+Bronx,Watson Park Mobile Truck,X124,X124-2-MT,Mobile Food Truck
+Bronx,Watson Park Mobile Food Trucks,X124,X124-MT,Mobile Food Truck
+Bronx,P.S. 106 Playground Mobile Food Truck,X160,X160-MT,Mobile Food Truck
+Bronx,Haffen Park Mobile Food Truck,X196,X196-MT,Mobile Food Truck
+Bronx,Seton Park Mobile Food Truck,X201,X201-MT,Mobile Food Truck
