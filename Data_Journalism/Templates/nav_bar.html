@@ -1,0 +1,27 @@
+<ul class="nav nav-pills">
+    <li class="nav-item">
+      <a class="nav-link" href="/">About Page</a>
+    </li>
+    <li class="nav-item">
+      <form action="/macro" method="GET">
+        <label class="nav-link" for="boro_choose">Borough:</label>
+        <select name="boro_choose" id="boro_choose">
+          {% for boro in boroughs %}
+            <option value="{{boro}}">{{boro}}</option>
+          {% endfor %}
+        </select>
+        <input type="submit" value="Submit">
+      </form>
+    </li>
+    <li class="nav-item">
+      <form action="/micro" method="GET">
+        <label class="nav-link" for="zip_choose">Zip Code:</label>
+        <select name="zip_choose" id="zip_choose">
+          {% for zip in zip_codes %}
+            <option value="{{zip}}">{{zip}}</option>
+          {% endfor %}
+        </select>
+        <input type="submit" value="Submit">
+      </form>
+    </li>
+</ul>
