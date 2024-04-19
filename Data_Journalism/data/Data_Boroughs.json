@@ -1,0 +1,1196 @@
+{
+    "Bronx": {
+        "Lincoln Hospital Greenmarket": {
+            "Zip Code": "10451",
+            "Type": "Farmer's Market"
+        },
+        "New Roots Farm Stand": {
+            "Zip Code": "10451",
+            "Type": "Farmer's Market"
+        },
+        "170 Farm Stand": {
+            "Zip Code": "10452",
+            "Type": "Farmer's Market"
+        },
+        "La Familia Verde Farmers Market / Highbridge Farmers Market": {
+            "Zip Code": "10452",
+            "Type": "Farmer's Market"
+        },
+        "Bronx Borough Hall Greenmarket": {
+            "Zip Code": "10452",
+            "Type": "Farmer's Market"
+        },
+        "Morris Heights Farmstand": {
+            "Zip Code": "10453",
+            "Type": "Farmer's Market"
+        },
+        "Mott Haven Farm Stand": {
+            "Zip Code": "10454",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home St. Mary's Park Farm Stand": {
+            "Zip Code": "10455",
+            "Type": "Farmer's Market"
+        },
+        "Morrisania Farmstand": {
+            "Zip Code": "10456",
+            "Type": "Farmer's Market"
+        },
+        "BronxWorks Farm Stand": {
+            "Zip Code": "10456",
+            "Type": "Farmer's Market"
+        },
+        "Project EATS & St. Barnabas Hospital Farm Stand": {
+            "Zip Code": "10457",
+            "Type": "Farmer's Market"
+        },
+        "Children's Aid Go!Healthy Food Box + Farmstand - CS211": {
+            "Zip Code": "10457",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Mt. Eden Malls Farmers Market": {
+            "Zip Code": "10457",
+            "Type": "Farmer's Market"
+        },
+        "La Familia Verde Farmers Market": {
+            "Zip Code": "10457",
+            "Type": "Farmer's Market"
+        },
+        "Poe Park Greenmarket": {
+            "Zip Code": "10458",
+            "Type": "Farmer's Market"
+        },
+        "Morning Glory Market at the New York Botanical Gardens": {
+            "Zip Code": "10458",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Hunts Point Farm Stand": {
+            "Zip Code": "10459",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Jacobi Hospital Farmers Market": {
+            "Zip Code": "10461",
+            "Type": "Farmer's Market"
+        },
+        "Bronx Park East Farmers Market": {
+            "Zip Code": "10462",
+            "Type": "Farmer's Market"
+        },
+        "Van Cortlandt Park Alliance Amalgamated Housing Youth Farmstand": {
+            "Zip Code": "10463",
+            "Type": "Farmer's Market"
+        },
+        "Kingsbridge-Riverdale Farmers' Market": {
+            "Zip Code": "10463",
+            "Type": "Farmer's Market"
+        },
+        "The Market at Preston": {
+            "Zip Code": "10465",
+            "Type": "Farmer's Market"
+        },
+        "Bissel Gardens Farmers Market": {
+            "Zip Code": "10466",
+            "Type": "Farmer's Market"
+        },
+        "Eastchester Farmstand": {
+            "Zip Code": "10466",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home North Central Bronx Farmers Market": {
+            "Zip Code": "10467",
+            "Type": "Farmer's Market"
+        },
+        "Norwood Farmstand": {
+            "Zip Code": "10467",
+            "Type": "Farmer's Market"
+        },
+        "JBOLC Garden Community Farmers Market": {
+            "Zip Code": "10468",
+            "Type": "Farmer's Market"
+        },
+        "Riverdale Neighborhood House": {
+            "Zip Code": "10471",
+            "Type": "Farmer's Market"
+        },
+        "Riverdale Y Sunday Farmers Market": {
+            "Zip Code": "10471",
+            "Type": "Farmer's Market"
+        },
+        "Parkchester Greenmarket": {
+            "Zip Code": "10472",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Co-op City Farm Stand": {
+            "Zip Code": "10475",
+            "Type": "Farmer's Market"
+        },
+        "River Park Food Cart": {
+            "Zip Code": "10467",
+            "Type": "Food Cart"
+        },
+        "Bronx Park Mobile Food Truck": {
+            "Zip Code": "10467",
+            "Type": "Food Cart"
+        },
+        "Tweety's Mobile Food Truck": {
+            "Zip Code": "10457",
+            "Type": "Food Cart"
+        },
+        "Claremont Park Mobile Food Truck": {
+            "Zip Code": "10457",
+            "Type": "Food Cart"
+        },
+        "Crotona Park Mobile Food Truck": {
+            "Zip Code": "10457",
+            "Type": "Food Cart"
+        },
+        "Tremont Park Mobile Food Truck": {
+            "Zip Code": "10457",
+            "Type": "Food Cart"
+        },
+        "Devoe Park Mobile Food Truck": {
+            "Zip Code": "10468",
+            "Type": "Food Cart"
+        },
+        "J Rodman Drake Park Food Cart": {
+            "Zip Code": "10468",
+            "Type": "Food Cart"
+        },
+        "Hugh Grant Circle Food Cart": {
+            "Zip Code": "10451",
+            "Type": "Food Cart"
+        },
+        "Pelham Bay Park Food Cart": {
+            "Zip Code": "10464",
+            "Type": "Food Cart"
+        },
+        "Pelham Bay Park Mobile Food Truck": {
+            "Zip Code": "10464",
+            "Type": "Food Cart"
+        },
+        "Orchard Beach Snack Bar": {
+            "Zip Code": "10464",
+            "Type": "Snack Bar"
+        },
+        "Wendy's": {
+            "Zip Code": "10464",
+            "Type": "Snack Bar"
+        },
+        "Slattery Playground Mobile Truck": {
+            "Zip Code": "10473",
+            "Type": "Food Cart"
+        },
+        "Van Cortlandt Park Food Cart": {
+            "Zip Code": "10471",
+            "Type": "Food Cart"
+        },
+        "Woodlawn Memorial Mobile Food Truck": {
+            "Zip Code": "10471",
+            "Type": "Food Cart"
+        },
+        "Dunkin' Donuts": {
+            "Zip Code": "10471",
+            "Type": "Snack Bar"
+        },
+        "Ciccarone Park Mobile Food Truck": {
+            "Zip Code": "10467",
+            "Type": "Food Cart"
+        },
+        "People's Park Mobile Food Truck": {
+            "Zip Code": "10467",
+            "Type": "Food Cart"
+        },
+        "Williamsbridge Oval Playground Food Cart": {
+            "Zip Code": "10467",
+            "Type": "Food Cart"
+        },
+        "Williamsbridge Oval Park": {
+            "Zip Code": "10467",
+            "Type": "Food Cart"
+        },
+        "Sound View Park Mobile Food Truck": {
+            "Zip Code": "10473",
+            "Type": "Food Cart"
+        },
+        "Soundview Park Mobile Food Trucks": {
+            "Zip Code": "10473",
+            "Type": "Food Cart"
+        },
+        "Florence Colucci Playground Mobile Food Truck": {
+            "Zip Code": "10465",
+            "Type": "Food Cart"
+        },
+        "Watson Park Mobile Truck": {
+            "Zip Code": "10465",
+            "Type": "Food Cart"
+        },
+        "Watson Park Mobile Food Trucks": {
+            "Zip Code": "10465",
+            "Type": "Food Cart"
+        },
+        "P.S. 106 Playground Mobile Food Truck": {
+            "Zip Code": "10452",
+            "Type": "Food Cart"
+        },
+        "Haffen Park Mobile Food Truck": {
+            "Zip Code": "10469",
+            "Type": "Food Cart"
+        },
+        "Seton Park Mobile Food Truck": {
+            "Zip Code": "10471",
+            "Type": "Food Cart"
+        }
+    },
+    "Brooklyn": {
+        "Brooklyn Borough Hall Greenmarket": {
+            "Zip Code": "11201",
+            "Type": "Farmer's Market"
+        },
+        "Fort Greene Greenmarket": {
+            "Zip Code": "11201",
+            "Type": "Farmer's Market"
+        },
+        "Seeds in the Middle East Flatbush Farm Stand 2": {
+            "Zip Code": "11203",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Kings County Hospital Farmers Market": {
+            "Zip Code": "11203",
+            "Type": "Farmer's Market"
+        },
+        "Wyckoff House Museum Farmstand": {
+            "Zip Code": "11203",
+            "Type": "Farmer's Market"
+        },
+        "Urban Oasis": {
+            "Zip Code": "11203",
+            "Type": "Farmer's Market"
+        },
+        "Woodhull Hospital Farmstand": {
+            "Zip Code": "11206",
+            "Type": "Farmer's Market"
+        },
+        "Fresh Vibes Market at Emblem Health": {
+            "Zip Code": "11207",
+            "Type": "Farmer's Market"
+        },
+        "East New York Farmers Market": {
+            "Zip Code": "11207",
+            "Type": "Farmer's Market"
+        },
+        "Cypress Hills Farmstand": {
+            "Zip Code": "11208",
+            "Type": "Farmer's Market"
+        },
+        "East New York Farmers Stand I": {
+            "Zip Code": "11208",
+            "Type": "Farmer's Market"
+        },
+        "Bay Ridge Greenmarket": {
+            "Zip Code": "11209",
+            "Type": "Farmer's Market"
+        },
+        "Seeds in the Middle - Flatbush - Hillel Plaza Farm Stand": {
+            "Zip Code": "11210",
+            "Type": "Farmer's Market"
+        },
+        "Flatbush Junction Farmstand": {
+            "Zip Code": "11210",
+            "Type": "Farmer's Market"
+        },
+        "McCarren Park Greenmarket": {
+            "Zip Code": "11211",
+            "Type": "Farmer's Market"
+        },
+        "Brownsville Pitkin Farmstand": {
+            "Zip Code": "11212",
+            "Type": "Farmer's Market"
+        },
+        "Isabahlia Farmers Market": {
+            "Zip Code": "11212",
+            "Type": "Farmer's Market"
+        },
+        "Project EATS Brownsville Farm Stand": {
+            "Zip Code": "11212",
+            "Type": "Farmer's Market"
+        },
+        "Seeds in the Middle Brownsville Farm Stand": {
+            "Zip Code": "11212",
+            "Type": "Farmer's Market"
+        },
+        "Seeds in the Middle - Brownsville I.S. 392 Farm Stand": {
+            "Zip Code": "11212",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Brower Park Farm Stand": {
+            "Zip Code": "11213",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Utica Avenue Farmers Market": {
+            "Zip Code": "11213",
+            "Type": "Farmer's Market"
+        },
+        "Bensonhurst Greenmarket": {
+            "Zip Code": "11214",
+            "Type": "Farmer's Market"
+        },
+        "NYP Youth Market - Brooklyn": {
+            "Zip Code": "11215",
+            "Type": "Farmer's Market"
+        },
+        "Park Slope's Down to Earth Farmers Market": {
+            "Zip Code": "11215",
+            "Type": "Farmer's Market"
+        },
+        "Bartel-Pritchard Square Greenmarket": {
+            "Zip Code": "11215",
+            "Type": "Farmer's Market"
+        },
+        "Grand Army Plaza Greenmarket": {
+            "Zip Code": "11215",
+            "Type": "Farmer's Market"
+        },
+        "Hattie Carthan Community Market": {
+            "Zip Code": "11216",
+            "Type": "Farmer's Market"
+        },
+        "Kensington Farmstand": {
+            "Zip Code": "11218",
+            "Type": "Farmer's Market"
+        },
+        "People in Need Farmstand": {
+            "Zip Code": "11218",
+            "Type": "Farmer's Market"
+        },
+        "Boro Park Greenmarket": {
+            "Zip Code": "11219",
+            "Type": "Farmer's Market"
+        },
+        "Fresh Vibes Market at the Bureau of Brooklyn Neighborhood Health": {
+            "Zip Code": "11221",
+            "Type": "Farmer's Market"
+        },
+        "Hattie Carthan Herbal Apothecary/ Market": {
+            "Zip Code": "11221",
+            "Type": "Farmer's Market"
+        },
+        "McGolrick Park's Down to Earth Farmers Market": {
+            "Zip Code": "11222",
+            "Type": "Farmer's Market"
+        },
+        "Edible Schoolyard NYC's Farm Stand at PS 216": {
+            "Zip Code": "11223",
+            "Type": "Farmer's Market"
+        },
+        "Fresh Vibes Market at Medgar Evers College": {
+            "Zip Code": "11225",
+            "Type": "Farmer's Market"
+        },
+        "Crown Heights Farmstand": {
+            "Zip Code": "11225",
+            "Type": "Farmer's Market"
+        },
+        "Seeds in the Middle - Crown Heights - Clara Barton HS Farm Stand": {
+            "Zip Code": "11225",
+            "Type": "Farmer's Market"
+        },
+        "Seeds in the Middle - Flabush - Ditmas Park Farm Stand": {
+            "Zip Code": "11226",
+            "Type": "Farmer's Market"
+        },
+        "Fresh Vibes Market at Blue Cross Blue Shield @ Church Avenue": {
+            "Zip Code": "11226",
+            "Type": "Farmer's Market"
+        },
+        "Cortelyou Greenmarket": {
+            "Zip Code": "11226",
+            "Type": "Farmer's Market"
+        },
+        "Carroll Gardens Greenmarket": {
+            "Zip Code": "11231",
+            "Type": "Farmer's Market"
+        },
+        "Red Hook Farm Stand": {
+            "Zip Code": "11231",
+            "Type": "Farmer's Market"
+        },
+        "7th Ave Sunset Park Greenmarket": {
+            "Zip Code": "11232",
+            "Type": "Farmer's Market"
+        },
+        "4th Ave Sunset Park Greenmarket": {
+            "Zip Code": "11232",
+            "Type": "Farmer's Market"
+        },
+        "Sunset Park Farmstand": {
+            "Zip Code": "11232",
+            "Type": "Farmer's Market"
+        },
+        "Brooklyn Grange Farm Stand": {
+            "Zip Code": "11232",
+            "Type": "Farmer's Market"
+        },
+        "Eastern Parkway Farm Stand": {
+            "Zip Code": "11233",
+            "Type": "Farmer's Market"
+        },
+        "Weeksville Farm Stand": {
+            "Zip Code": "11233",
+            "Type": "Farmer's Market"
+        },
+        "Saratoga Farm Stand": {
+            "Zip Code": "11233",
+            "Type": "Farmer's Market"
+        },
+        "Seeds in the Middle - Ocean Hill - Brownsville Farm Stand": {
+            "Zip Code": "11233",
+            "Type": "Farmer's Market"
+        },
+        "Fresh Vibes Market at the American Beverage Association": {
+            "Zip Code": "11233",
+            "Type": "Farmer's Market"
+        },
+        "Black Radish Farmers Market": {
+            "Zip Code": "11233",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Coney Island Hospital Farmers Market": {
+            "Zip Code": "11235",
+            "Type": "Farmer's Market"
+        },
+        "Fresh Vibes Market at Canarsie Pier": {
+            "Zip Code": "11236",
+            "Type": "Farmer's Market"
+        },
+        "RiseBoro Farmers Market at Maria Hernandez Park": {
+            "Zip Code": "11237",
+            "Type": "Farmer's Market"
+        },
+        "RiseBoro Farmers Market at Hopefield": {
+            "Zip Code": "11237",
+            "Type": "Farmer's Market"
+        },
+        "Fresh Vibes Market at Blue Cross Blue Shield @ Knickerbocker Avenue": {
+            "Zip Code": "11237",
+            "Type": "Farmer's Market"
+        },
+        "Seeds in the Middle Crown Heights Farm Stand": {
+            "Zip Code": "11238",
+            "Type": "Farmer's Market"
+        },
+        "Domino Park Greenmarket": {
+            "Zip Code": "11249",
+            "Type": "Farmer's Market"
+        },
+        "Bensonhurst Park Mobile Food Truck": {
+            "Zip Code": "11214",
+            "Type": "Food Cart"
+        },
+        "Maria Hernandez Park Food Cart": {
+            "Zip Code": "11237",
+            "Type": "Food Cart"
+        },
+        "Marine Park Mobile Truck": {
+            "Zip Code": "11234",
+            "Type": "Food Cart"
+        },
+        "McCarren Parkhouse Cafe": {
+            "Zip Code": "11222",
+            "Type": "Snack Bar"
+        },
+        "Prospect Park Mount Food Cart": {
+            "Zip Code": "11215",
+            "Type": "Food Cart"
+        },
+        "Prospect Park Snack Bar": {
+            "Zip Code": "11215",
+            "Type": "Snack Bar"
+        },
+        "Sunset Park Food Cart": {
+            "Zip Code": "11232",
+            "Type": "Food Cart"
+        },
+        "Seth Low Park Mobile Food Truck": {
+            "Zip Code": "11216",
+            "Type": "Food Cart"
+        },
+        "Columbus Park Snack Bar": {
+            "Zip Code": "11222",
+            "Type": "Snack Bar"
+        },
+        "Red Hook Recreation Center Mobile Food Truck": {
+            "Zip Code": "11231",
+            "Type": "Food Cart"
+        },
+        "Plumb Beach Mobile Food Truck": {
+            "Zip Code": "11214",
+            "Type": "Food Cart"
+        },
+        "Belmont Playground Mobile Food Trucks": {
+            "Zip Code": "11235",
+            "Type": "Food Cart"
+        },
+        "Public Place Food Cart": {
+            "Zip Code": "11234",
+            "Type": "Food Cart"
+        },
+        "Jackie Robinson Park Mobile Food Truck": {
+            "Zip Code": "11234",
+            "Type": "Food Cart"
+        }
+    },
+    "Manhattan": {
+        "Gouverneur Health Farmstand": {
+            "Zip Code": "10002",
+            "Type": "Farmer's Market"
+        },
+        "Project EATS Farm Stand at Essex Crossing": {
+            "Zip Code": "10002",
+            "Type": "Farmer's Market"
+        },
+        "Lower East Side Farmstand": {
+            "Zip Code": "10002",
+            "Type": "Farmer's Market"
+        },
+        "Astor Place Greenmarket": {
+            "Zip Code": "10003",
+            "Type": "Farmer's Market"
+        },
+        "Union Square Greenmarket": {
+            "Zip Code": "10003",
+            "Type": "Farmer's Market"
+        },
+        "Bowling Green Greenmarket": {
+            "Zip Code": "10004",
+            "Type": "Farmer's Market"
+        },
+        "Greenmarket at the Oculus": {
+            "Zip Code": "10007",
+            "Type": "Farmer's Market"
+        },
+        "Tompkins Square Greenmarket": {
+            "Zip Code": "10009",
+            "Type": "Farmer's Market"
+        },
+        "Stuyvesant Town Greenmarket": {
+            "Zip Code": "10009",
+            "Type": "Farmer's Market"
+        },
+        "PS 11 Farm Market": {
+            "Zip Code": "10011",
+            "Type": "Farmer's Market"
+        },
+        "Chelsea's Down to Earth Farmers Market": {
+            "Zip Code": "10011",
+            "Type": "Farmer's Market"
+        },
+        "Tribeca Greenmarket": {
+            "Zip Code": "10013",
+            "Type": "Farmer's Market"
+        },
+        "Abingdon Square Greenmarket": {
+            "Zip Code": "10014",
+            "Type": "Farmer's Market"
+        },
+        "Dag Hammarskjold Greenmarket": {
+            "Zip Code": "10017",
+            "Type": "Farmer's Market"
+        },
+        "57th Street Greenmarket": {
+            "Zip Code": "10019",
+            "Type": "Farmer's Market"
+        },
+        "Tucker Square Greenmarket": {
+            "Zip Code": "10023",
+            "Type": "Farmer's Market"
+        },
+        "79th Street Greenmarket": {
+            "Zip Code": "10024",
+            "Type": "Farmer's Market"
+        },
+        "97th Street Greenmarket": {
+            "Zip Code": "10025",
+            "Type": "Farmer's Market"
+        },
+        "Columbia Greenmarket": {
+            "Zip Code": "10025",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Lenox Avenue Farm Stand": {
+            "Zip Code": "10026",
+            "Type": "Farmer's Market"
+        },
+        "Harlem Meer Farmstand": {
+            "Zip Code": "10026",
+            "Type": "Farmer's Market"
+        },
+        "Children's Aid  Go!Healthy Food Box + Farmstand - Milbank Center": {
+            "Zip Code": "10026",
+            "Type": "Farmer's Market"
+        },
+        "Morningside Park's Down to Earth Farmers Market": {
+            "Zip Code": "10026",
+            "Type": "Farmer's Market"
+        },
+        "Uptown Good Food Farm Stand": {
+            "Zip Code": "10027",
+            "Type": "Farmer's Market"
+        },
+        "Market in the Heights at 125": {
+            "Zip Code": "10027",
+            "Type": "Farmer's Market"
+        },
+        "82nd Street Greenmarket": {
+            "Zip Code": "10028",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home East Harlem Farmers Market": {
+            "Zip Code": "10029",
+            "Type": "Farmer's Market"
+        },
+        "PS 57 Farmstand": {
+            "Zip Code": "10029",
+            "Type": "Farmer's Market"
+        },
+        "Mount Sinai Greenmarket": {
+            "Zip Code": "10029",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Metropolitan Hospital Farmers Market": {
+            "Zip Code": "10029",
+            "Type": "Farmer's Market"
+        },
+        "Market in the Heights at CCNY": {
+            "Zip Code": "10031",
+            "Type": "Farmer's Market"
+        },
+        "Grass Roots Farmers' Market": {
+            "Zip Code": "10031",
+            "Type": "Farmer's Market"
+        },
+        "Bro Sis Green Youth Market": {
+            "Zip Code": "10031",
+            "Type": "Farmer's Market"
+        },
+        "Fort Washington Greenmarket": {
+            "Zip Code": "10032",
+            "Type": "Farmer's Market"
+        },
+        "NYP Youth Market - Audobon": {
+            "Zip Code": "10032",
+            "Type": "Farmer's Market"
+        },
+        "175th Street Greenmarket": {
+            "Zip Code": "10033",
+            "Type": "Farmer's Market"
+        },
+        "Inwood Park Greenmarket": {
+            "Zip Code": "10034",
+            "Type": "Farmer's Market"
+        },
+        "NYP Youth Market - Broadway": {
+            "Zip Code": "10034",
+            "Type": "Farmer's Market"
+        },
+        "Harvest Home Harlem Hospital Farmers Market": {
+            "Zip Code": "10037",
+            "Type": "Farmer's Market"
+        },
+        "Fulton Stall Market (indoor farmers market)": {
+            "Zip Code": "10038",
+            "Type": "Farmer's Market"
+        },
+        "Two Bridges Youth Market": {
+            "Zip Code": "10038",
+            "Type": "Farmer's Market"
+        },
+        "94th Street Greenmarket": {
+            "Zip Code": "10128",
+            "Type": "Farmer's Market"
+        },
+        "Battery Park Specialty Food Cart": {
+            "Zip Code": "10004",
+            "Type": "Food Cart"
+        },
+        "Battery Gardens Restaurant": {
+            "Zip Code": "10004",
+            "Type": "Restaurant"
+        },
+        "Peter Minuit Snack Bar": {
+            "Zip Code": "10004",
+            "Type": "Snack Bar"
+        },
+        "Battery Park Snack Bar": {
+            "Zip Code": "10004",
+            "Type": "Snack Bar"
+        },
+        "Bowling Green Park Specialty Cart": {
+            "Zip Code": "10004",
+            "Type": "Food Cart"
+        },
+        "Central Park Food Cart": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Nuts Above Nuts": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "NANDITA INC.": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Big City Snacks": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Nandita Inc.": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "MUHAMMAD T. ISLAM": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "JANANI FOOD SERVICES  INC.": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Mohammad Matin": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Sharmin Inc.": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Nandita Inc": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Waves Nuts": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "CAF&Eacute; PRODUCTS CORP.": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Loeb Boathouse Restaurant": {
+            "Zip Code": "10024",
+            "Type": "Restaurant"
+        },
+        "Tavern on the Green": {
+            "Zip Code": "10024",
+            "Type": "Restaurant"
+        },
+        "Conservatory Water Snack Bar": {
+            "Zip Code": "10024",
+            "Type": "Snack Bar"
+        },
+        "Mineral Springs Cafe": {
+            "Zip Code": "10024",
+            "Type": "Snack Bar"
+        },
+        "Arsenal Snack Bar": {
+            "Zip Code": "10024",
+            "Type": "Snack Bar"
+        },
+        "Delacorte Theatre Snack Bar": {
+            "Zip Code": "10024",
+            "Type": "Snack Bar"
+        },
+        "Jackie Robinson Park Mobile Food Truck": {
+            "Zip Code": "10039",
+            "Type": "Food Cart"
+        },
+        "Fort Tryon Park Mobile Food Truck": {
+            "Zip Code": "10040",
+            "Type": "Food Cart"
+        },
+        "The Hudson": {
+            "Zip Code": "10040",
+            "Type": "Restaurant"
+        },
+        "Rice the Great Specialty Food Cart": {
+            "Zip Code": "10040",
+            "Type": "Food Cart"
+        },
+        "Alexander Hamilton Plygrd Mobile Food Truck": {
+            "Zip Code": "10034",
+            "Type": "Food Cart"
+        },
+        "Inwood Hill Food Cart": {
+            "Zip Code": "10034",
+            "Type": "Food Cart"
+        },
+        "John Jay Park Food Cart": {
+            "Zip Code": "10029",
+            "Type": "Food Cart"
+        },
+        "Cafe Products Corp": {
+            "Zip Code": "10010",
+            "Type": "Food Cart"
+        },
+        "King David Taco": {
+            "Zip Code": "10010",
+            "Type": "Food Cart"
+        },
+        "Shake Shack": {
+            "Zip Code": "10010",
+            "Type": "Snack Bar"
+        },
+        "T. Roosevelt Park Specialty Food Cart": {
+            "Zip Code": "10010",
+            "Type": "Food Cart"
+        },
+        "Riverside Park Food Cart": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Riverside Park Specialty Food Cart": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Rvierside Park Specialty Food Cart": {
+            "Zip Code": "10024",
+            "Type": "Food Cart"
+        },
+        "Ellington In The Park": {
+            "Zip Code": "10024",
+            "Type": "Snack Bar"
+        },
+        "Tompkinsville Square Food Cart": {
+            "Zip Code": "10009",
+            "Type": "Food Cart"
+        },
+        "Freehold in the Park": {
+            "Zip Code": "10009",
+            "Type": "Restaurant"
+        },
+        "Verdi Square Snack Bar": {
+            "Zip Code": "10011",
+            "Type": "Snack Bar"
+        },
+        "Washington Square Park Food Cart": {
+            "Zip Code": "10011",
+            "Type": "Food Cart"
+        },
+        "NY Dosas": {
+            "Zip Code": "10011",
+            "Type": "Food Cart"
+        },
+        "First Park Outdoor Cafe": {
+            "Zip Code": "10032",
+            "Type": "Snack Bar"
+        },
+        "Anibal Aviles Playground Mobile Food Truck": {
+            "Zip Code": "10035",
+            "Type": "Food Cart"
+        },
+        "Wald Playground Food Cart": {
+            "Zip Code": "10035",
+            "Type": "Food Cart"
+        },
+        "PS 199 Playground Mobile Food Truck": {
+            "Zip Code": "10035",
+            "Type": "Food Cart"
+        },
+        "Pier I Cafe": {
+            "Zip Code": "10023",
+            "Type": "Snack Bar"
+        },
+        "Imagination Playground Specialty Food Cart": {
+            "Zip Code": "10004",
+            "Type": "Food Cart"
+        }
+    },
+    "Queens": {
+        "Queens County Farm Museum Farm Stand": {
+            "Zip Code": "11004",
+            "Type": "Farmer's Market"
+        },
+        "Sunnyside Greenmarket": {
+            "Zip Code": "11104",
+            "Type": "Farmer's Market"
+        },
+        "Ditmars Park Farmstand": {
+            "Zip Code": "11105",
+            "Type": "Farmer's Market"
+        },
+        "Socrates Sculpture Park": {
+            "Zip Code": "11106",
+            "Type": "Farmer's Market"
+        },
+        "Myrtle-Wyckoff Greenmarket": {
+            "Zip Code": "11237",
+            "Type": "Farmer's Market"
+        },
+        "Flushing Greenmarket": {
+            "Zip Code": "11355",
+            "Type": "Farmer's Market"
+        },
+        "Cunningham Park's Down to Earth Farmers Market": {
+            "Zip Code": "11366",
+            "Type": "Farmer's Market"
+        },
+        "Corona Greenmarket": {
+            "Zip Code": "11368",
+            "Type": "Farmer's Market"
+        },
+        "Jackson Heights Greenmarket": {
+            "Zip Code": "11372",
+            "Type": "Farmer's Market"
+        },
+        "NYP Youth Market - Queens": {
+            "Zip Code": "11372",
+            "Type": "Farmer's Market"
+        },
+        "Elmhurst Hospital Greenmarket": {
+            "Zip Code": "11373",
+            "Type": "Farmer's Market"
+        },
+        "Forest Hills Greenmarket": {
+            "Zip Code": "11375",
+            "Type": "Farmer's Market"
+        },
+        "Ridgewood Farmstand": {
+            "Zip Code": "11385",
+            "Type": "Farmer's Market"
+        },
+        "Sovereign Markets": {
+            "Zip Code": "11413",
+            "Type": "Farmer's Market"
+        },
+        "Perez Farm Stand": {
+            "Zip Code": "11418",
+            "Type": "Farmer's Market"
+        },
+        "Queens Farm @ Jamaica Hospital": {
+            "Zip Code": "11418",
+            "Type": "Farmer's Market"
+        },
+        "Forest Park Farmstand": {
+            "Zip Code": "11418",
+            "Type": "Farmer's Market"
+        },
+        "Queens Farm - Queens Borough Hall": {
+            "Zip Code": "11424",
+            "Type": "Farmer's Market"
+        },
+        "QueensVillage Farmers Market": {
+            "Zip Code": "11428",
+            "Type": "Farmer's Market"
+        },
+        "St. Albans Farmers Market": {
+            "Zip Code": "11434",
+            "Type": "Farmer's Market"
+        },
+        "Far Rock Farm Stand": {
+            "Zip Code": "11691",
+            "Type": "Farmer's Market"
+        },
+        "Edgemere Farm Market": {
+            "Zip Code": "11691",
+            "Type": "Farmer's Market"
+        },
+        "Rockaway Market @ Beach 60th": {
+            "Zip Code": "11692",
+            "Type": "Farmer's Market"
+        },
+        "Rockaway Youth Task Force Youth Market": {
+            "Zip Code": "11692",
+            "Type": "Farmer's Market"
+        },
+        "Clearview Cafe": {
+            "Zip Code": "11360",
+            "Type": "Restaurant"
+        },
+        "Windmuller Park Food Cart": {
+            "Zip Code": "11411",
+            "Type": "Food Cart"
+        },
+        "Hart Playground Mobile Food Truck": {
+            "Zip Code": "11432",
+            "Type": "Food Cart"
+        },
+        "Memorial Field Mobile Food Truck": {
+            "Zip Code": "11354",
+            "Type": "Food Cart"
+        },
+        "Frank O'Connor Park Food Cart": {
+            "Zip Code": "11373",
+            "Type": "Food Cart"
+        },
+        "Flushing Meadows Corona Park Food Cart": {
+            "Zip Code": "11368",
+            "Type": "Food Cart"
+        },
+        "Pushcart": {
+            "Zip Code": "11368",
+            "Type": "Food Cart"
+        },
+        "Flushing Meadows Corona Park Mobile Food Truck": {
+            "Zip Code": "11368",
+            "Type": "Food Cart"
+        },
+        "Flushing Meadows Mobile Food Truck": {
+            "Zip Code": "11368",
+            "Type": "Food Cart"
+        },
+        "Terrace on the Park": {
+            "Zip Code": "11368",
+            "Type": "Restaurant"
+        },
+        "World's Fair Marina Restaurant": {
+            "Zip Code": "11368",
+            "Type": "Restaurant"
+        },
+        "Ederle Terrace Snack Bar": {
+            "Zip Code": "11368",
+            "Type": "Snack Bar"
+        },
+        "Olmsted Cafeteria": {
+            "Zip Code": "11368",
+            "Type": "Snack Bar"
+        },
+        "Junction Playground Food Cart": {
+            "Zip Code": "11433",
+            "Type": "Food Cart"
+        },
+        "Cross Island Mobile Food Truck": {
+            "Zip Code": "11360",
+            "Type": "Food Cart"
+        },
+        "Dredsurfer LLC": {
+            "Zip Code": "11693",
+            "Type": "Snack Bar"
+        },
+        "Rockaway Beach Snack Bars": {
+            "Zip Code": "11694",
+            "Type": "Snack Bar"
+        },
+        "Charles Drew Memorial Park Mobile Ice Cream Truck": {
+            "Zip Code": "11692",
+            "Type": "Food Cart"
+        },
+        "Kissena Corridor Park Mobile Food Truck": {
+            "Zip Code": "11355",
+            "Type": "Food Cart"
+        },
+        "Travers Park Food Cart": {
+            "Zip Code": "11365",
+            "Type": "Food Cart"
+        },
+        "Thomas J. Travers Playground Mobile Food Truck": {
+            "Zip Code": "11365",
+            "Type": "Food Cart"
+        },
+        "PS 173 Playground Mobile Food Truck": {
+            "Zip Code": "11691",
+            "Type": "Food Cart"
+        },
+        "Vleigh Place Playground Mobile Food Truck": {
+            "Zip Code": "11691",
+            "Type": "Food Cart"
+        },
+        "Frederick Cabbell Park Mobile Food Truck": {
+            "Zip Code": "11691",
+            "Type": "Food Cart"
+        },
+        "PAPAZIAN  Q3400006  AKOP": {
+            "Zip Code": "11691",
+            "Type": "Food Cart"
+        },
+        "Gunn Park Mobile Food Truck": {
+            "Zip Code": "11691",
+            "Type": "Food Cart"
+        },
+        "PS 149 Playground Food Cart": {
+            "Zip Code": "11691",
+            "Type": "Food Cart"
+        },
+        "Louis C. Moser Park Mobile Food Truck": {
+            "Zip Code": "11691",
+            "Type": "Food Cart"
+        },
+        "PS 127 Elmhurst Playground Mobile Food Truck": {
+            "Zip Code": "11691",
+            "Type": "Food Cart"
+        },
+        "Hunter's Point South Snack Bar": {
+            "Zip Code": "11101",
+            "Type": "Snack Bar"
+        }
+    },
+    "Staten Island": {
+        "Children's Aid Society Go!Healthy Food Box + Famstand - Goodhue Center": {
+            "Zip Code": "10301",
+            "Type": "Farmer's Market"
+        },
+        "Heritage Farm Stand (Compost Demonstration Site)": {
+            "Zip Code": "10301",
+            "Type": "Farmer's Market"
+        },
+        "St. George Greenmarket": {
+            "Zip Code": "10301",
+            "Type": "Farmer's Market"
+        },
+        "Heritage Farm Stand (Gazebo Road)": {
+            "Zip Code": "10301",
+            "Type": "Farmer's Market"
+        },
+        "Staten Island Mall Greenmarket": {
+            "Zip Code": "10314",
+            "Type": "Farmer's Market"
+        },
+        "Clove Lakes Park Food Cart": {
+            "Zip Code": "10310",
+            "Type": "Food Cart"
+        },
+        "Clove Lakes Park Mobile Food Truck": {
+            "Zip Code": "10310",
+            "Type": "Food Cart"
+        },
+        "The Stone House": {
+            "Zip Code": "10310",
+            "Type": "Restaurant"
+        },
+        "Conference House Park Mobile Food Trucks": {
+            "Zip Code": "10307",
+            "Type": "Food Cart"
+        },
+        "Arthur Kill Road Restaurant": {
+            "Zip Code": "10306",
+            "Type": "Restaurant"
+        },
+        "Owl Hollow Park Mobile Food Truck": {
+            "Zip Code": "10312",
+            "Type": "Food Cart"
+        },
+        "Midland Beach Mobile Food Truck": {
+            "Zip Code": "10306",
+            "Type": "Food Cart"
+        },
+        "The Vanderbilt at South Beach": {
+            "Zip Code": "10306",
+            "Type": "Restaurant"
+        },
+        "PS 52 Mason Playground Mobile Food Truck": {
+            "Zip Code": "10309",
+            "Type": "Food Cart"
+        },
+        "South Shore Country Club": {
+            "Zip Code": "10309",
+            "Type": "Restaurant"
+        },
+        "Bloomingdale Park Mobile Food Truck": {
+            "Zip Code": "10309",
+            "Type": "Food Cart"
+        },
+        "Ocean Breeze Snack Bar": {
+            "Zip Code": "10305",
+            "Type": "Snack Bar"
+        }
+    }
+}
