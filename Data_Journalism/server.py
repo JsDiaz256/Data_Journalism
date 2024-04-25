@@ -21,8 +21,6 @@ def about():
             zip_codes.add(data[boros][store]["Zip Code"])
 
     zip = request.args.get('zip_choose')
-    if zip == "":
-        zip = sorted(list(zip_codes))[0]
 
     #render the template with the apporpriate data
     return render_template('about.html', boroughs=sorted(data.keys()), boro = boro, data=data, zip=zip, zip_codes=sorted(list(zip_codes)))
@@ -43,8 +41,6 @@ def macro():
             zip_codes.add(data[boros][store]["Zip Code"])
 
     zip = request.args.get('zip_choose')
-    if zip == "":
-        zip = sorted(list(zip_codes))[0]
 
     #render the template with the apporpriate data
     return render_template('Macro_Page.html', boroughs=sorted(data.keys()), boro = boro, data=data, zip=zip, zip_codes=sorted(list(zip_codes)))
@@ -66,9 +62,6 @@ def micro():
             zip_codes.add(data[boros][store]["Zip Code"])
 
     zip = request.args.get('zip_choose')
-    if zip == "":
-        zip = sorted(list(zip_codes))[0]
-
 
     #render the template with the apporpriate data
     return render_template('Micro_Page.html', boroughs=sorted(data.keys()), boro = boro, data=data, zip=zip, zip_codes=sorted(list(zip_codes)))
