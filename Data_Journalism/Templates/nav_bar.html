@@ -1,27 +1,22 @@
-<ul class="nav nav-pills">
+<ul class="nav nav-pills" class="navbar navbar-light" style="background-color: #a1d4a2;" >
+    <li class="navbar-text" style="font-weight: bold;">
+      Food Availability in NYC
+    </li>
     <li class="nav-item">
       <a class="nav-link" href="/">About Page</a>
     </li>
     <li class="nav-item">
-      <form action="/macro" method="GET">
-        <label class="nav-link" for="boro_choose">Borough:</label>
-        <select name="boro_choose" id="boro_choose">
-          {% for boro in boroughs %}
-            <option value="{{boro}}">{{boro}}</option>
-          {% endfor %}
-        </select>
-        <input type="submit" value="Submit">
-      </form>
+      <a class="nav-link" href="/macro">Boroughs</a>
     </li>
-    <li class="nav-item">
-      <form action="/micro" method="GET">
-        <label class="nav-link" for="zip_choose">Zip Code:</label>
-        <select name="zip_choose" id="zip_choose">
-          {% for zip in zip_codes %}
-            <option value="{{zip}}">{{zip}}</option>
-          {% endfor %}
-        </select>
-        <input type="submit" value="Submit">
-      </form>
+
+    <li class="nav-item dropdown">
+      <button class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="false" aria-expanded="true">
+        Zip Code:
+      </button>
+      <ul name="zip_choose" id="zip_choose" class="dropdown-menu">
+        {% for zip in zip_codes %}
+          <li><a class="dropdown-item" href="/micro?zip_choose={{zip}}">{{zip}}</a></li>
+        {% endfor %}
+      </ul>
     </li>
 </ul>
