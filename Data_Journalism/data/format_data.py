@@ -7,7 +7,7 @@ line0 = lines[0].split(",")
 
 borodict = {}
 
-for borough in ["Bronx", "Brooklyn", "Manhattan", "Queens", "Staten Island"]:
+for borough in ["Manhattan", "Brooklyn", "Bronx", "Queens", "Staten Island"]:
     borodict[borough] = {}
     for line in lines:
         splitline = line.split(",")
@@ -24,4 +24,3 @@ f2 = open("Sem2/Data_Journalism/data/Data_Boroughs.json", "w")
 json.dump(borodict, f2, indent = 4)
 
 f2.close()
-

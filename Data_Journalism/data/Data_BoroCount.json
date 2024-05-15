@@ -1,0 +1,22 @@
+{
+    "Manhattan": {
+        "boroughcount" : 112,
+        "totalcount" : 112
+    },
+    "Brooklyn": {
+        "boroughcount" : 75,
+        "totalcount" : 187
+    },
+    "Bronx": {
+        "boroughcount" : 64,
+        "totalcount" : 251
+    },
+    "Queens": {
+        "boroughcount" : 61,
+        "totalcount" : 312
+    },
+    "Staten Island": {
+        "boroughcount" : 20,
+        "totalcount" : 332
+    }
+}

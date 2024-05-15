@@ -1,3 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="100%" height="100%">
-  <text font-size="5" x="150" y="100" text-anchor="middle">total food businesses in nyc broken down into boroughs in pie chart</text>
+<svg height="700" width="700" viewBox="0 0 700 700">
+  <circle r="300" cx="350" cy="350" fill="white" />
+  {% for temp_boro_place in range(4,-1,-1) %}
+    <circle r="150" cx="350" cy="350" fill="transparent"
+        stroke-width="300"
+        stroke="rgb({{60+temp_boro_place*30}},{{160+temp_boro_place*30}},{{220+temp_boro_place*30}})"
+        stroke-dasharray="calc({{ (boro_count_dict[boroughs[temp_boro_place]]['totalcount']/332) * 942.48 }}) 10000" 
+        transform="rotate(-90) translate(-700)"/>
+    {% if boroughs[temp_boro_place] == "Manhattan" %}
+      {% set xval, yval = 450, 270 %}
+    {% elif boroughs[temp_boro_place] == "Brooklyn" %}
+      {% set xval, yval = 340, 500 %}
+    {% elif boroughs[temp_boro_place] == "Bronx" %}
+      {% set xval, yval = 160, 430 %}
+    {% elif boroughs[temp_boro_place] == "Queens" %}
+      {% set xval, yval = 170, 240 %}
+    {% elif boroughs[temp_boro_place] == "Staten Island" %}
+      {% set xval, yval = 270, 110 %}
+    {% endif %}
+    <text x= "{{xval}}" y= "{{yval}}" style= "font-size:12" >{{boroughs[temp_boro_place]}}: </text>
+    <text x= "{{xval}}" y= "{{yval+13}}" style= "font-size:12" >{{boro_count_dict[boroughs[temp_boro_place]]['boroughcount']}} of 332: </text>
+    <text x= "{{xval}}" y= "{{yval+26}}" style= "font-size:12" >{{(boro_count_dict[boroughs[temp_boro_place]]['boroughcount']/3.32) |round(1) }}% </text>
+  {% endfor %}
+
+  <text x= "160" y= "20" style="text-decoration: underline">How eateries are distributed across the five boroughs</text>
 </svg>
