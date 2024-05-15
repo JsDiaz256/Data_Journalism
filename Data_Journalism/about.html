@@ -1,31 +1,59 @@
 <html>
 <head>
-  <title>Data Journalism - About</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>Food Availability in NYC</title>
+  <link rel="stylesheet" href="styles.css"/>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
 </head>
-<body>
+<body style="background-color:rgb(180, 224, 181)" class="mx-auto p-2" style="width: 100%;">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" rel="stylesheet" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  {% include 'nav_bar.html' %}
+  
+  <h1>Food Availability in New York City</h1>
 
-  <h1>Food Availability in NYC</h1>
+  <h3>Description of project:</h3>
+  <p>This project will compare the amount of farmers markets, food carts, snack bars, and restaurants 
+    there are in different boroughs and zip codes in NYC.
+    While this excludes other types of food stores, like fast food chains or coffee shops, 
+    this project shows a general trend of where there are the most businesses to grab a bite to eat in NYC.
+  </p>
 
-  <p>This project will be about the types of food available in different parts of NYC. The places to get food will be divided by burrough, as well as zip code.</p>
+  <h3>Vocabulary:</h3>
+  <ul>
+    <li class="p-2 g-col-6">NYC - abbreviation for New York City</li>
+    <li class="p-2 g-col-6">Borough - one of five major areas of NYC, a way to differentiate the parts of the islands</li>
+    <li class="p-2 g-col-6">Businesses or eateries - generic term to encompass all of the types of food-selling shops listed above</li>
+  </ul>
+
+  <h3>Prototypes:</h3>
+  <img src="Static/Macro_Prototype.jpeg" alt="Macro Prototype" style="height:400px">
+  <img src="Static/Micro_Prototype.jpeg" alt="Micro Prototype" style="height:400px">
+  <h3>Feedback:</h3>
+  <ul>
+    <li>"I think there may be too many graphs. The map does not feel very helpful on the first page, I would maybe use a dropdown instead. Or at least make the map show some data."</li>
+    <li>"Since the colors within the graph in the macro page are all red, I feel like different colors between the different factories would be visually better for the reader to see whats going on. I live the overall layout and how everything is very upfront and clear. However another piece of feedback would to be make the titles are little bigger. It would also be good if the grapes were organized clearer."</li>
+  </ul>
+  <p>My prototypes were focused on finding different ways of comparing the boroughs and zip codes.
+    Based on the feedback I got, I decided to reduce the amount of graphs, simplify them, and base them on easy-to-understand comparisons. 
+  </p>
+
+  <h3><a href="https://drive.google.com/file/d/1RpAJFQzC9ntIf-Po6_j2MlIP3nYwtvYo/view">
+    Video Walkthrough </a></h3>
 
   <div>
-    Data Sources:
-    <ul>
-      <li><a href="https://data.cityofnewyork.us/Health/NYC-Farmers-Markets/8vwk-6iz2">NYC Farmers Markets</a></li>
-      <li><a href="https://data.cityofnewyork.us/Recreation/Directory-of-Eateries/8792-ebcp">Directory of Eateries</a></li>
-    </ul>
-  </div>
-
-  <div>The Data Cleansing Pipeline:
+    <h3>The Data Cleansing Pipeline:</h3>
     <ol>
         <li>Download a few data sets from NYC Open Data</li>
         <li>Use Google Sheets to organize and remove unnecessary data</li>
         <li>Download the organized data as an .csv file</li>
         <li>Use a python program to read the .csv file and create a dictionary in a .json file</li>
         <ul>
-            <li><a href="/data/format_data.py">Format_data.py code</a></li>
+            <li><a href="https://github.com/JsDiaz256/Data_Journalism/blob/main/Data_Journalism/data/format_data.py">Format_data.py code</a></li>
         </ul>
     </ol>
+  </div>
+  {% include 'footer.html' %}
 </body>
 </html>
